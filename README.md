@@ -37,5 +37,5 @@ More configuration options will be added soon.
 
 ---
 ## Notes 
-- *Only tested on Linux. Still need to do more tesing on Windows and MacOS.*
+- *Only compatible on Linux for now. Windows and MacOS require you to install **dbus** to establish a connection to Museeks.*
 - *A small menubar application or GUI is in the works and will be added soon.*
