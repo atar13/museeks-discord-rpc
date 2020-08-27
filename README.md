@@ -31,7 +31,7 @@ node rpc.js
 ## Configuration
 Edit and save the options in the **config.json** file and run the rpc.js again.
 ### Options 
-'checkForMuseeksRefreshTime' : Changes the duration between each time the application checks for Museeks.
+`checkForMuseeksRefreshTime` : Changes the duration between each time the application checks for Museeks.
 
 More configuration options will be added soon.
 
