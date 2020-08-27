@@ -37,5 +37,5 @@ More configuration options will be added soon.
 
 ---
 ## Notes 
-*Only tested on Linux. Still need to do more tesing on Windows and MacOS.*
-*A small menubar application or GUI is in the works and will be added soon.*
+- *Only tested on Linux. Still need to do more tesing on Windows and MacOS.*
+- *A small menubar application or GUI is in the works and will be added soon.*
