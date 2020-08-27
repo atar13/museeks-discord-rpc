@@ -12,7 +12,6 @@
     "child_process": "^1.0.2",
     "dbus-native": "^0.4.0",
     "discord-rich-presence": "0.0.8",
-    "jquery": "^3.5.1",
     "register-scheme": "github:devsnek/node-register-scheme",
     "safe-buffer": "^5.2.1"
   }
